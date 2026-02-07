@@ -448,3 +448,7 @@ Start with the food truck. Cook something good. Serve it fast. Listen to what pe
 ---
 
 *A.J. Doyle — Data Product Owner, somewhere between Stage 3 and Stage 4, wondering if the walk-in freezer is big enough.*
+
+---
+
+*Inspired by [Farm-to-Table Data Architecture](https://github.com/zenzombie/zenzombie-blog/blob/main/content/essays/farm-to-table-data-architecture.md) by zenzombie.*
