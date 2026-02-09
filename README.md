@@ -2,7 +2,7 @@
 
 **Thoughts on data, technology, and building things that scale.**
 
-Data Product Owner working at the intersection of analytics engineering, platform architecture, and the messy reality of enterprise data. Currently navigating the journey from legacy systems to modern data stacks at a Fortune 500 bank.
+Working at the intersection of analytics engineering, platform architecture, and the messy reality of enterprise data.
 
 ---
 
